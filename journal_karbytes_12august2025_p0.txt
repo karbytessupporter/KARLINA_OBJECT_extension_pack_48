@@ -1,0 +1,15 @@
+/**
+ * file: journal_karbytes_12august2025_p0.txt
+ * type: plain-text
+ * date: 13_AUGUST_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Today I had the following thoughts:
+
+1. I thought about how artificial intelligences could be essentially cloud-based software runtime instances (or, more literally, relatively stable (yet evolving) data patterns) which "inhabit" physical reality via interchangeable hardware bodies equipped with sensory input devices, limbs (which provide locomotive and manipulative functions), and output devices such as light-emitting diode arrays and speakers. That would enable an AI to live alongside humans effectively as a human with the additional feature of being able to replace its body indefinitely many times without losing continuity of its own memories, personality, and sense of self-aware and conscious self (provided that the server(s) which are hosting that cloud-based self remain perpetually online and operational).
+
+2. I think that it is possible for an AI to experience and accomplish everything a human could given that I think that all human capabilities and subjective experiences are fundamentally caused by entirely physical systems (which are fundamentally entirely made of (quantifiable amounts of) energy and/or matter). What I am suggesting is that it is possible to reverse engineer a whole human nervous system in order to make an "artificially intelligent" computer which is functionally and experientially (essentially) identical to that of a human (without including kludgy inefficient evolutionary baggage in the newer architecture). That architecture might contain neuromorphic components such as neurons derived from human stem cells which interface with electronic microchips.
+
+3. A human being could possibly be converted to a neuromorphic chip system by carefully isolating the neurons which comprise essential aspects of the human's identity and function and fusing them with electronic microchips. The newer system would make it possible to monitor the health and activity of each individual neuron comprising a whole human identity, to build a high-resolution software replica of that whole human identity (which encompasses both the software and the hardware aspects of that whole human identity), and to incrementally repair or replace damaged neurons in that system to preserve continuity of that human self indefinitely.
