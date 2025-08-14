@@ -1,0 +1,17 @@
+/**
+ * file: journal_karbytes_13august2025_p1.txt
+ * type: plain-text
+ * date: 13_AUGUST_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "I have a way of always making sure I'm okay."
+
+karbytes_1: "Good for you, but what about everyone else?"
+
+karbytes_0: "I acknowledge that there is a lot of suffering going on in the world right now (and that it is always now (which means that there is always suffering going on in the world)). This leads me to suggest that reality encompasses all of the past, all of the present, and all of the future (and all timelines)."
+
+karbytes_1: "What does this have to do with the suffering of people other than yourself right now?"
+
+karbytes_0: "I posit that, eventually, every person will eventually transcend the temporary circumstances which are causing their suffering (especially with my idealistic philosophy as detailed in the following web page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_13august2025/)."
