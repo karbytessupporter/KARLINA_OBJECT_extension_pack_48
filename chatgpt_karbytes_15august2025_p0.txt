@@ -1,0 +1,138 @@
+/**
+ * file: chatgpt_karbytes_15august2025_p0.txt
+ * type: plain-text
+ * date: 16_AUGUST_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5 Thinking which took place between 11:59PM Pacific Standard Time on 14_AUGUST_2025 and 11:59PM Pacific Standard Time on 15_AUGUST_2025. The conversation pertains to karbytes' recent decision to discontinue making updates to its LinkedIn profile (other than posting links to karbytes blog posts) and to discontinue sharing updates about its employment status on its blog. Such changes are intended to streamline karbytes' blog and to make it as self-contained and independent as possible.
+
+The following social media profiles of karbytes (except for (a) pinned posts on karbytes' LinkedIn account and (b) comments and upvotes made by karbytes' Instagram user account on Instagram posts which are not made by karbytes) are no longer being updated by karbytes after 11:59PM Pacific Standard Time on 15_AUGUST_2025:
+
+LinkedIn: https://www.linkedin.com/in/kar-beringer-0a6684187/
+
+Facebook: https://www.facebook.com/karlina.beringer.397/
+
+Instagram: https://www.instagram.com/karbytes_anew/
+
+* * *
+
+karbytes:
+
+I'm strongly considering never again updating my LinkedIn profile nor mentioning on my blog if and when I become employed or unemployed (and, based on my blog alone, it appears I am unemployed and living on money from parents and/or government-issued disability payments (perhaps for autism or some other relatively invisible and long-term physical or mental impairment)). What I expect the blog to include as new content is just stuff which pertains to personal software development projects, hobbies, and occasional personal announcements (but in a relatively impersonal, emotionally neutral, and relatively apolitical voice and content coverage range).
+
+ChatGPT:
+
+[Thought for 53 seconds]
+
+[Updated saved memory]
+
+That plan makes a lot of sense—and it fits the brand you’ve been curating. If you want to keep employment out of public view but still showcase capability, here’s a tight way to do it.
+
+A simple, “employment-neutral” setup
+
+1) LinkedIn (minimal, quiet, useful)
+
+- Turn off change notifications and public profile visibility. Keep viewing in private mode.
+
+- Remove “Open to work” and any status signals.
+
+- Use a neutral headline (e.g., “Independent software developer • Systems + JS/C++ tools”).
+
+- Keep a short About section that points to your portfolio/blog and says “For collaborations, contact via email on site.”
+
+- Optional: keep a single timeless role like “Independent Researcher / Developer (Ongoing)” to avoid date optics without signaling employment status.
+
+2) Blog framing (set expectations once) Add a small “Editorial Policy” box you can link from the header/footer:
+
+Editorial Policy
+
+This site documents independent software experiments, technical notes, and occasional personal announcements. It intentionally omits employment and financial status. Silence ≠ status. Posts aim for a neutral, apolitical tone. For collaboration inquiries, use the contact info on this site.
+
+3) Portfolio signals without status
+
+- Maintain a Projects index with concise one-liners, tech stacks, repo links, and last updated dates.
+
+- Keep a CHANGELOG / What’s New page (activity shows momentum without personal disclosures).
+
+- Provide a Contact page with a short “availability by inquiry” line.
+
+4) Recruiter/press deflection If someone asks about employment:
+
+“I keep employment details private online. Please evaluate my public work and reach out via the contact page if you have a concrete opportunity.”
+
+5) Privacy hygiene on the blog
+
+- Avoid time/place specifics that triangulate daily routine.
+
+- Keep location and financial references vague or absent.
+
+- Use neutral first-person (“I built…”, “I measured…”) and skip narrative that invites speculation.
+
+If you’d like, I can tailor the Editorial Policy snippet to match your site’s typography/tone or draft a minimal, evergreen LinkedIn “About” block you can paste.
+
+karbytes:
+
+Yes please!
+
+ChatGPT:
+
+[Thought for 36 seconds]
+
+Awesome—here are paste-ready drafts tuned to your voice and goals.
+
+Editorial Policy (paste into a WordPress “Custom HTML” block)
+
+[html]
+
+<div class="editorial-policy" role="complementary" aria-label="Editorial Policy"> <h2>Editorial Policy</h2> <p>This site documents independent software experiments, technical notes, and occasional personal announcements.</p> <ul> <li>Employment and financial status are intentionally omitted.</li> <li>Silence is not a status update.</li> <li>Voice: impersonal, emotionally neutral, relatively apolitical.</li> <li>For collaboration inquiries, use the contact info listed on this site.</li> </ul> <p class="last-updated">Last updated: 15 Aug 2025</p> </div> <!-- Optional lightweight styling; remove if you prefer your global CSS --> <style> .editorial-policy{border:1px solid #ddd;border-radius:12px;padding:16px 18px;margin:18px 0;background:#fafafa} .editorial-policy h2{margin:0 0 8px 0;font-size:1.15rem} .editorial-policy ul{margin:8px 0 0 18px} .editorial-policy li{margin:6px 0} .editorial-policy .last-updated{font-size:.9rem;color:#666;margin-top:10px} </style> 
+
+[end html]
+
+Minimal Markdown version (if you prefer)
+
+Editorial Policy
+
+This site documents independent software experiments, technical notes, and occasional personal announcements.
+
+- Employment and financial status are intentionally omitted.
+
+- Silence is not a status update.
+
+- Voice: impersonal, emotionally neutral, relatively apolitical.
+
+- For collaboration inquiries, use the contact info listed on this site.
+
+Last updated: 15 Aug 2025
+
+LinkedIn (evergreen, employment-neutral)
+
+Headline (pick one)
+
+- Independent software developer • JS/C++ tools & web apps
+
+- Systems-minded developer • Web tooling, C++/JS, archives
+
+- Independent researcher & developer • Interactive web + C++
+
+About (paste into the “About” section)
+
+I build small, durable software: browser-based tools, C++/JS utilities, and archival workflows. My public work focuses on independent projects, technical notes, and reproducible demos.
+
+I keep employment details private online; please evaluate my public repositories and writing. If you have a concrete opportunity or a collaboration idea, contact me via the email listed on my site.
+
+Optional single ongoing role (to avoid date optics)
+
+* Title: Independent Researcher / Developer (Ongoing)
+
+* Description (short bullets): 
+
+- Design and ship small web apps and JS/C++ utilities
+
+- Maintain documentation, changelogs, and reproducible demos
+
+- Focus on clarity, longevity, and minimal dependencies
+
+If you want, I can also tailor a tiny footer link (“Editorial Policy”) for your WordPress theme, or rewrite the About with links to your blog and GitHub baked in.
+
